@@ -22,7 +22,7 @@ void bubble_sort(int *array, size_t size);
 void insertion_sort_list(listint_t **list);
 void sorted(listint_t **, listint_t *);
 int partition(int *, int, int, size_t);
-void sort_it(int *, int. int, size_t);
+void sort_it(int *, int, int, size_t);
 void quick_sort(int *, size_t);
 void swapit(int *, int *);
 void selection_sort(int *, size_t);
